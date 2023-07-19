@@ -9,7 +9,6 @@
     </parent>
     <groupId>alan.blog</groupId>
     <artifactId>mailbox-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <name>mailbox-service</name>
     <description>mailbox-service</description>
     <properties>

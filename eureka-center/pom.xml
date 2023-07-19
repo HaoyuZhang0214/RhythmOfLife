@@ -9,7 +9,6 @@
     </parent>
     <groupId>alan.blog</groupId>
     <artifactId>eureka-center</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <name>eureka-center</name>
     <description>eureka-center</description>
     <properties>
