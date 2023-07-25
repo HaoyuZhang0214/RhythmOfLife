@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: log-service
+  mvc:
+    servlet:
+      path: /log-service
+
+server:
+  port: 8082
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
