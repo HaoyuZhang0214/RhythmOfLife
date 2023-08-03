@@ -17,3 +17,20 @@ h5,
 h6 {
   margin: 8px 0; /* top and bottom margins, left and right ones not set */
 }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url('../assets/images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* Set the height of the spacer div to create vertical space */
+.spacer {
+  height: 50px; /* Replace with your desired height */
+}
+
+
